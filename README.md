@@ -1,3 +1,3 @@
 # tindog_website
 
-tindog is frontend website.
+tindog is a unique website resembling the functionality of Tinder, specifically designed for dogs.
